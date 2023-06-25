@@ -1,5 +1,5 @@
 ---
-BasedOnStyle: Microsoft
+BasedOnStyle: Google
 
 ColumnLimit: 120
 IndentWidth: 4
@@ -14,4 +14,8 @@ AllowShortFunctionsOnASingleLine:    Inline
 AllowShortIfStatementsOnASingleLine: AllIfsAndElse
 AllowShortLoopsOnASingleLine:        true
 IndentCaseLabels:                    true
+---
+Language: Java
+AllowShortFunctionsOnASingleLine:    Empty
+BreakAfterJavaFieldAnnotations:      true
 ...
