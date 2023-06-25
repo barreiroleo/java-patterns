@@ -1,0 +1,17 @@
+---
+BasedOnStyle: Microsoft
+
+ColumnLimit: 120
+IndentWidth: 4
+TabWidth:    4
+UseTab:      Never
+
+BreakBeforeBraces:    Stroustrup
+
+AccessModifierOffset:                -2
+AllowShortEnumsOnASingleLine:        true
+AllowShortFunctionsOnASingleLine:    Inline
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+AllowShortLoopsOnASingleLine:        true
+IndentCaseLabels:                    true
+...
